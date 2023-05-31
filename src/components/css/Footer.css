@@ -1,0 +1,76 @@
+
+/* Footer CSS */
+example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  .example-full-width {
+    width: 100%;
+  }
+  h4 {
+    margin-top: 20px;
+  }
+  .footer {
+    /* background-color: black; */
+    background: linear-gradient(to right ,#6b6f70,#89a8b3,#9babb1,#6b6f70);
+    color: rgb(78, 63, 63);
+    padding-top: 50px;
+    box-shadow: 5px 20px 50px #000;
+    /* margin-left: 70px; */
+    /* margin-top: 50px; */
+    /* border: 2px solid white; */
+    /* border-radius: 50px; */
+  }
+  
+  .logoFooter {
+    width: 100%;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  .copyright-bar {
+    display: inline;
+  }
+  
+  .module-title {
+    text-transform: uppercase;
+  }
+  
+  .anker {
+    text-decoration: none;
+    color: rgb(78, 63, 63);
+    display: block;
+    margin: 20px 20px 20px 0px;
+    font-size: medium;
+  }
+  
+  .anker:hover {
+    text-decoration: none;
+    color: rgb(185, 88, 8)
+  }
+  
+  .list-unstyled {
+    display: inline;
+  }
+  
+  .module-body {
+    display: inline;
+  }
+  
+  .socil-media {
+    display: inline;
+  }
+  
+  
+  .loginFormBackground{
+    background: linear-gradient(to right ,#1c86c4,#3c90aa,#80d1e9,#80d1e9);
+  }
+  .cardHeader{
+    background: linear-gradient(to right ,#094263,#20505f,#3b6572,#5b95a7);
+    color: wheat;
+  }
+  
+  

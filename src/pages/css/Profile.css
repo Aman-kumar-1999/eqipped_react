@@ -1,0 +1,217 @@
+ .card-container{
+    margin-top: 100px;
+    height: 40vh;
+    width: 100%;
+    background:linear-gradient(to right ,#065989,#08536a,#117796,#08556d);
+    border-radius: 10px;
+} 
+
+
+.imgholder img {
+    float: left;
+    margin-left: 20px;
+    width: 120px;
+    height: 150px;
+    margin-top: -45px;
+ }
+
+.FirstName{
+    color: white ;
+    width: 250px;
+    margin-left: 200px;
+    padding-top: 55px;
+}
+
+.LastName{
+    color: white ;
+    width: 250px;
+    margin-left: 480px;
+    margin-top: -97px;
+}
+
+.CompanyName{
+    color: white ;
+    width: 250px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.Designation{
+    color: white ;
+    width: 150px;
+    margin-left: 480px;
+    margin-top: -97px;
+}
+
+
+.FirstName h6{
+    float: left;
+}
+
+.LastName h6{
+    float: left;
+}
+
+.CompanyName h6{
+    float: left;
+}
+
+.Designation h6{
+    float: left;
+}
+
+.DOB h6{
+   float: left;
+}
+
+.Gender h5{
+    margin-left: -170px;
+    font-size: 18px;
+    /* padding-bottom: 15px; */
+}
+
+.Gender label{
+    margin-top: -20px;
+}
+
+.DOB{
+    color: white ;
+    width: 120px;
+    margin-left: 760px;
+    margin-top: -100px;
+}
+
+.Gender{
+    color: white ;
+    width: 250px;
+    margin-left: 750px;
+    margin-top: -170px;
+}
+
+
+
+.card-container2{
+    margin-top: 100px;
+    height: 60vh;
+    background: linear-gradient(to right ,#b9c9ce,#a5b1b6,#9aa9ad,#d2dee2);
+}
+
+.bigh{
+    color: rgb(241, 131, 91);
+    padding-top: 10px;
+    float: left;
+    margin-left: 20px;
+}
+
+.CompanyName2{
+    color: black ;
+    width: 250px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.FirstName2{
+    color: black ;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: -85px;
+}
+
+.LastName2{
+    color: black ;
+    width: 200px;
+    margin-left: 720px;
+    margin-top: -97px;
+}
+
+.City{
+    color: black ;
+    width: 150px;
+    margin-left: 20px;
+}
+
+
+.State{
+    color: black ;
+    width: 150px;
+    margin-left: 400px;
+    margin-top: -100px;   
+}
+
+.Pincode{
+    color: black ;
+    width: 150px;
+    margin-left: 720px;
+    margin-top: -95px;   
+}
+
+.Address{
+    color: black ;
+    width: 550px;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 120px;
+}
+
+.Contact{
+    color: black ;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: -10px;   
+}
+
+.ContactA{
+    color: black ;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: -100px;   
+}
+
+.Email{
+    color: black ;
+    width: 200px;
+    margin-left: 720px;
+    margin-top: -100px;   
+}
+
+
+.CompanyName2 h6{
+    float: left;
+}
+
+.FirstName2 h6{
+    float: left;
+}
+
+.LastName2 h6{
+    float: left;
+}
+
+.City h6{
+    float: left;
+}
+
+.State h6{
+    float: left;
+}
+
+.Pincode h6{
+    float: left;
+}
+
+.Address h6{
+    float: left;
+}
+
+.Contact h6{
+    float: left;
+}
+
+.ContactA h6{
+    float: left;
+}
+
+.Email h6{
+    float: left;
+}
+

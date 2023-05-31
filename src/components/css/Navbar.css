@@ -1,0 +1,137 @@
+.logo{
+    height: 100%;
+    width: 40%;
+    /* margin-top: -20px; */
+    /* background-color: brown; */
+  }
+  
+  
+  
+  .form {
+    color: #555;
+    display: flex;
+    /* padding: 2px; */
+    /* border: 1px solid currentColor; */
+    border-radius: 50px;
+   
+  }
+  input[type="search"] {
+    border: none;
+    background: transparent;
+    margin: 0;
+    margin-right: 0px;
+    width: 500px;
+    padding: 7px 8px;
+    font-size: 14px;
+    color: inherit;
+    border: 1px solid transparent;
+    border-radius: inherit;
+    
+  }
+  
+  
+  input[type="search"]::placeholder {
+    color: #bbb;
+  }
+  .button[type="submit"] {
+    text-indent: -999px;
+    overflow: hidden;
+    width: 40px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid transparent;
+    border-radius: inherit;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat center;
+    cursor: pointer;
+    opacity: 0.7;
+  }
+  
+  .button[type="submit"]:hover {
+    opacity: 1;
+  }
+  
+  .number{
+    padding: 10px;
+    /* color: purple; */
+    /* background-color: red; */
+    /* margin: 50px; */
+    display: flex;
+  }
+  .number:hover{
+    /* padding: 10px; */
+    color: rgb(243, 126, 16);
+    /* background-color: red; */
+    /* margin: 50px; */
+    /* display: flex; */
+  }
+  .numberFlax{
+    padding: 10px;
+    display: flex;
+  }
+  #num:hover{
+    color:rgb(243, 126, 16);
+  }
+  #eml{
+    color: purple;
+  
+  }
+  #eml:hover{
+    color:rgb(243, 126, 16);
+  }
+  
+  /* Navbar container */
+  .navbar1 {
+    /* overflow: hidden; */
+    background: linear-gradient(to left ,#98a0a3,#dbe4e7,#d2dee2,#98a0a3);
+    /* font-family: Arial; */
+    /* box-shadow: 5px 10px 50px #706e6e; */
+    padding-top: 5px;
+    padding-bottom: 0px;
+    
+  }
+  h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  /* Links inside the navbar */
+  .navbar1 a {
+    /* float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; */
+  }
+  
+ 
+  
+  
+  
+  
+  
+  /* Add a red background color to navbar links on hover */
+  .navbar1 a:hover, .dropdown1:hover .dropbtn1 {
+    /* background-color: white; */
+    color: black;
+  }
+  
+@media (max-width: 800px){
+  /* .logo{
+    width: 50%;
+  } */
+ #search{
+  width: 300px;
+ }
+
+}
+
+#buttonCart{
+  border-radius: 30px;
+  background-color: yellow;
+  font-size: xx-small;
+  padding-left: 4px;
+  padding-right: 5px;
+  position: absolute;
+  margin-left: 25px;
+
+}
+  

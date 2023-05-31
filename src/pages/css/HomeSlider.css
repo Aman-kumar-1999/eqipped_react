@@ -1,0 +1,82 @@
+.newcard{
+    width: 200px;
+    height: 310px;
+    background: linear-gradient(to right ,#c6cbcc,#d8dee1,#abb0b2,#9ba1a3);
+    border-radius: 5px;  
+} 
+
+.newcard img{
+    width:120px;
+    height: 180px;
+}
+
+.newcard h5 {
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: orangered;
+}
+
+.price{
+    font-weight: bold;
+    float: left;
+    font-size: 15px;
+    padding-top: 10px;  
+}
+
+.smallp{
+    font-size: 10px;
+    padding-top: 35px;
+    float: left;
+    margin-left: -50px;
+}
+
+.newcard button{
+    font-size: 13px;
+    height: 30px;
+    margin-top: 65px;
+    font-weight: bold;
+    margin-left: -26px;
+    border-radius: 10px;
+    color: white;
+    background-color: orangered;
+}
+
+.newcard button:hover{
+    text-decoration: none;
+    background: linear-gradient(to right ,#d7e1e3,#e5ecf1,#dee6e9,#e9f1f4);
+    color: black;
+}
+.carasouldiv h1{
+    font-weight: bold;
+    font-size: 50px;
+    padding: 20px;
+    color: rgb(6, 119, 184);
+}
+
+.lastbtn{
+    margin: 30px;
+    height: 40px;
+    width: 100px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: orangered;
+    background: linear-gradient(to right ,#d7e1e3,#e5ecf1,#dee6e9,#e9f1f4);
+}
+
+.fakeprice{
+    float: right;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-right: 10px;
+    text-decoration: line-through;  
+}
+
+.btndiv button:hover{
+    background: rgb(182, 174, 174);
+    color: black;
+}
+
+
